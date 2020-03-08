@@ -10,7 +10,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "p5": "^1.0.0"
+        "p5": "^1.0.0",
+        "tone": "^13.8.25"
     },
     "devDependencies": {
         "prettier": "^1.19.1"
